@@ -1,0 +1,1005 @@
+{
+  "Data":[
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7fe9",
+    "productName": "Product C",
+    "category": "Mobile",
+    "description": "Stay connected with this advanced mobile device.",
+    "price": 44900,
+    "currency": "INR1",
+    "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?q=10&h=200",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 30,
+    "brand": "TechMaster",
+    "manufacturer": "GadgetTech",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "High-resolution display",
+    "Powerful processor"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7fea",
+    "productName": "Product D",
+    "category": "Laptop",
+    "description": "Enhance your productivity with this powerful laptop.",
+    "price": 59999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/666/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 25,
+    "brand": "TechGenius",
+    "manufacturer": "ComputerTech",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "High-performance",
+    "Sleek design"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7feb",
+    "productName": "Product E",
+    "category": "Electronics",
+    "description": "An innovative electronic device for modern living.",
+    "price": 12999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 40,
+    "brand": "InnovateTech",
+    "manufacturer": "TechInvent",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Smart connectivity",
+    "User-friendly interface"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7fec",
+    "productName": "Product F",
+    "category": "Electricals",
+    "description": "Upgrade your home with this energy-efficient electrical appliance.",
+    "price": 2499,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/333/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 60,
+    "brand": "EcoPower",
+    "manufacturer": "EnergySaver",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Low power consumption",
+    "Environmentally friendly"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7fe7",
+    "productName": "Product A",
+    "category": "Electronics",
+    "description": "A high-quality electronic gadget.",
+    "price": 29999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/aaa/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "Brand X",
+    "manufacturer": "Manufacturer Y",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Feature 1",
+    "Feature 2"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7fe8",
+    "productName": "Product B",
+    "category": "Books",
+    "description": "A captivating novel that takes you on an adventure.",
+    "price": 499,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/999/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 100,
+    "brand": "BestReads",
+    "manufacturer": "Author Z",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Engaging storyline",
+    "Mystery and suspense"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7fef",
+    "productName": "Product I",
+    "category": "Books",
+    "description": "Dive into a world of imagination with this bestselling book.",
+    "price": 299,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/999/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 70,
+    "brand": "ImaginaryWorld",
+    "manufacturer": "Author A",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Compelling storyline",
+    "Emotional depth"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff0",
+    "productName": "Product J",
+    "category": "Electronics",
+    "description": "Experience cutting-edge technology with this electronic device.",
+    "price": 7999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 90,
+    "brand": "TechInnovators",
+    "manufacturer": "TechGenius",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Innovative features",
+    "Advanced functionality"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff1",
+    "productName": "Product K",
+    "category": "Books",
+    "description": "A thought-provoking book that challenges conventions.",
+    "price": 349,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 60,
+    "brand": "Mindscape",
+    "manufacturer": "Author B",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Intellectual exploration",
+    "Fresh perspectives"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff2",
+    "productName": "Product L",
+    "category": "Electronics",
+    "description": "Upgrade your entertainment setup with this device.",
+    "price": 19999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 45,
+    "brand": "EntertainTech",
+    "manufacturer": "TechWizards",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "High-quality sound",
+    "Sleek design"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff4",
+    "productName": "Product N",
+    "category": "Laptop",
+    "description": "Power through tasks with this high-performance laptop.",
+    "price": 74999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 30,
+    "brand": "SpeedTech",
+    "manufacturer": "TechSolutions",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Multitasking capabilities",
+    "Fast processing"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff3",
+    "productName": "Product M",
+    "category": "Mobile",
+    "description": "Stay connected and organized with this mobile device.",
+    "price": 55900,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 35,
+    "brand": "ConnectIt",
+    "manufacturer": "GadgetMakers",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Integrated apps",
+    "Efficient multitasking"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff5",
+    "productName": "Product O",
+    "category": "Electricals",
+    "description": "Modernize your home with this smart electrical appliance.",
+    "price": 1599,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 55,
+    "brand": "SmartLiving",
+    "manufacturer": "TechEco",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Remote control",
+    "Energy-saving features"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff6",
+    "productName": "Product P",
+    "category": "Decoration",
+    "description": "Add a touch of elegance to your living space.",
+    "price": 599,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 70,
+    "brand": "ElegantLiving",
+    "manufacturer": "DecorMasters",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Sophisticated design",
+    "Premium materials"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff8",
+    "productName": "Product R",
+    "category": "Electronics",
+    "description": "Experience immersive entertainment with this device.",
+    "price": 8999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 40,
+    "brand": "ImmersiveTech",
+    "manufacturer": "TechWizards",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "HD display",
+    "Surround sound"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff7",
+    "productName": "Product Q",
+    "category": "Projects",
+    "description": "Unleash your artistic side with this project kit.",
+    "price": 799,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 25,
+    "brand": "ArtisticMinds",
+    "manufacturer": "ProjectCraft",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Creative exploration",
+    "Variety of materials"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ff9",
+    "productName": "Product S",
+    "category": "Books",
+    "description": "Embark on a literary journey with this acclaimed novel.",
+    "price": 299,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 65,
+    "brand": "LiteraryWorks",
+    "manufacturer": "Author C",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Rich storytelling",
+    "Character development"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ffb",
+    "productName": "Product U",
+    "category": "Mobile",
+    "description": "Experience seamless communication with this mobile device.",
+    "price": 39900,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 40,
+    "brand": "ConnectIt",
+    "manufacturer": "GadgetMakers",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Fast connectivity",
+    "User-friendly interface"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ffa",
+    "productName": "Product T",
+    "category": "Electricals",
+    "description": "Efficiently manage your energy consumption.",
+    "price": 599,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "EnergySaver",
+    "manufacturer": "TechEco",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Real-time monitoring",
+    "Smart controls"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7fed",
+    "productName": "Product G",
+    "category": "Decoration",
+    "description": "Elevate your space with this elegant decorative item.",
+    "price": 799,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/777/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 80,
+    "brand": "ElegantLiving",
+    "manufacturer": "DecorMasters",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Stylish design",
+    "High-quality materials"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7fee",
+    "productName": "Product H",
+    "category": "Projects",
+    "description": "Unleash your creativity with this DIY project kit.",
+    "price": 599,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "CreativeMinds",
+    "manufacturer": "ProjectCreators",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Customizable design",
+    "Fun and engaging"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7fff",
+    "productName": "Product Y",
+    "category": "Projects",
+    "description": "Unleash your creativity with this DIY project kit.",
+    "price": 599,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "CreativeMinds",
+    "manufacturer": "ProjectCreators",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Customizable design",
+    "Fun and engaging"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ffe",
+    "productName": "Product X",
+    "category": "Decoration",
+    "description": "Add charm to your home with this decorative item.",
+    "price": 699,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 25,
+    "brand": "ElegantLiving",
+    "manufacturer": "DecorMasters",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Elegant design",
+    "Versatile use"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8000",
+    "productName": "Product Z",
+    "category": "Electronics",
+    "description": "Experience cutting-edge technology with this electronic device.",
+    "price": 7999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 45,
+    "brand": "TechInnovators",
+    "manufacturer": "TechGenius",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Innovative features",
+    "Advanced functionality"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8002",
+    "productName": "Product BB",
+    "category": "Electricals",
+    "description": "Upgrade your home with this energy-efficient electrical appliance.",
+    "price": 2499,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 70,
+    "brand": "EcoPower",
+    "manufacturer": "EnergySaver",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Low power consumption",
+    "Environmentally friendly"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8005",
+    "productName": "Product EE",
+    "category": "Electronics",
+    "description": "Experience enhanced entertainment with this device.",
+    "price": 12999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "EntertainTech",
+    "manufacturer": "TechWizards",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "High-definition visuals",
+    "Immersive sound"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8003",
+    "productName": "Product CC",
+    "category": "Decoration",
+    "description": "Elevate your space with this elegant decorative item.",
+    "price": 799,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 60,
+    "brand": "ElegantLiving",
+    "manufacturer": "DecorMasters",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Stylish design",
+    "High-quality materials"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8001",
+    "productName": "Product AA",
+    "category": "Books",
+    "description": "Dive into a world of imagination with this bestselling book.",
+    "price": 299,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 55,
+    "brand": "ImaginaryWorld",
+    "manufacturer": "Author A",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Compelling storyline",
+    "Emotional depth"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8004",
+    "productName": "Product DD",
+    "category": "Projects",
+    "description": "Unleash your creative potential with this project kit.",
+    "price": 699,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 40,
+    "brand": "ArtisticMinds",
+    "manufacturer": "ProjectCraft",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Artistic exploration",
+    "Versatile materials"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8006",
+    "productName": "Product FF",
+    "category": "Books",
+    "description": "Delve into the mysteries of this gripping novel.",
+    "price": 449,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 45,
+    "brand": "MysteryReads",
+    "manufacturer": "Author D",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Suspenseful plot",
+    "Twists and turns"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8007",
+    "productName": "Product GG",
+    "category": "Electricals",
+    "description": "Upgrade your home with this smart electrical appliance.",
+    "price": 1999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/666/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 60,
+    "brand": "SmartLiving",
+    "manufacturer": "TechEco",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Remote control",
+    "Energy-saving features"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8009",
+    "productName": "Product II",
+    "category": "Laptop",
+    "description": "Enhance your productivity with this high-performance laptop.",
+    "price": 78999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "TechGenius",
+    "manufacturer": "TechSolutions",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Powerful processor",
+    "Sleek design"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8008",
+    "productName": "Product HH",
+    "category": "Mobile",
+    "description": "Stay connected and productive with this mobile device.",
+    "price": 49900,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 55,
+    "brand": "ConnectIt",
+    "manufacturer": "GadgetMakers",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Seamless communication",
+    "Efficient multitasking"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef800a",
+    "productName": "Product JJ",
+    "category": "Electronics",
+    "description": "Immerse yourself in a world of entertainment.",
+    "price": 14999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/777/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 45,
+    "brand": "EntertainTech",
+    "manufacturer": "TechWizards",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Vivid visuals",
+    "Surround sound"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef800b",
+    "productName": "Product KK",
+    "category": "Books",
+    "description": "Embark on a literary journey with this novel.",
+    "price": 279,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/888/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 55,
+    "brand": "LiteraryWorks",
+    "manufacturer": "Author E",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Engaging plot",
+    "Character development"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef800c",
+    "productName": "Product LL",
+    "category": "Electricals",
+    "description": "Upgrade your home with this energy-efficient electrical appliance.",
+    "price": 2299,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 60,
+    "brand": "EcoPower",
+    "manufacturer": "EnergySaver",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Energy-saving",
+    "Environmentally friendly"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef800e",
+    "productName": "Product NN",
+    "category": "Projects",
+    "description": "Unleash your creativity with this project kit.",
+    "price": 599,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/333/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "CreativeMinds",
+    "manufacturer": "ProjectCreators",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Customizable design",
+    "Fun and engaging"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef800d",
+    "productName": "Product MM",
+    "category": "Decoration",
+    "description": "Enhance your living space with this decorative item.",
+    "price": 899,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 70,
+    "brand": "ElegantLiving",
+    "manufacturer": "DecorMasters",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Stylish design",
+    "High-quality materials"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef800f",
+    "productName": "Product OO",
+    "category": "Electronics",
+    "description": "Experience cutting-edge technology with this electronic device.",
+    "price": 7799,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 45,
+    "brand": "TechInnovators",
+    "manufacturer": "TechGenius",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Innovative features",
+    "Advanced functionality"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8010",
+    "productName": "Product PP",
+    "category": "Books",
+    "description": "Dive into a world of imagination with this bestselling book.",
+    "price": 349,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 55,
+    "brand": "ImaginaryWorld",
+    "manufacturer": "Author A",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Compelling storyline",
+    "Emotional depth"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8011",
+    "productName": "Product QQ",
+    "category": "Electricals",
+    "description": "Upgrade your home with this smart electrical appliance.",
+    "price": 1799,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 60,
+    "brand": "SmartLiving",
+    "manufacturer": "TechEco",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Remote control",
+    "Energy-saving features"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ffc",
+    "productName": "Product V",
+    "category": "Laptop",
+    "description": "Boost your productivity with this versatile laptop.",
+    "price": 67999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 35,
+    "brand": "ProductiveTech",
+    "manufacturer": "TechSolutions",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "High-performance processor",
+    "Portable design"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8014",
+    "productName": "Product TT",
+    "category": "Electronics",
+    "description": "Immerse yourself in a world of entertainment.",
+    "price": 12999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "EntertainTech",
+    "manufacturer": "TechWizards",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Vivid visuals",
+    "Surround sound"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef7ffd",
+    "productName": "Product W",
+    "category": "Electronics",
+    "description": "Immerse yourself in entertainment with this device.",
+    "price": 11999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 30,
+    "brand": "EntertainTech",
+    "manufacturer": "TechWizards",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Crystal-clear display",
+    "High-quality audio"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8016",
+    "productName": "Product VV",
+    "category": "Electricals",
+    "description": "Upgrade your home with this energy-efficient electrical appliance.",
+    "price": 2399,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/333/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 70,
+    "brand": "EcoPower",
+    "manufacturer": "EnergySaver",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Energy-saving",
+    "Environmentally friendly"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8015",
+    "productName": "Product UU",
+    "category": "Books",
+    "description": "Embark on a literary journey with this novel.",
+    "price": 299,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 60,
+    "brand": "LiteraryWorks",
+    "manufacturer": "Author F",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Engaging plot",
+    "Character development"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8018",
+    "productName": "Product XX",
+    "category": "Projects",
+    "description": "Unleash your creativity with this project kit.",
+    "price": 699,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/999/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 40,
+    "brand": "CreativeMinds",
+    "manufacturer": "ProjectCreators",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Customizable design",
+    "Fun and engaging"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8017",
+    "productName": "Product WW",
+    "category": "Decoration",
+    "description": "Enhance your living space with this decorative item.",
+    "price": 999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "ElegantLiving",
+    "manufacturer": "DecorMasters",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Stylish design",
+    "High-quality materials"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8012",
+    "productName": "Product RR",
+    "category": "Mobile",
+    "description": "Stay connected and productive with this mobile device.",
+    "price": 42900,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/444/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 50,
+    "brand": "ConnectIt",
+    "manufacturer": "GadgetMakers",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Seamless communication",
+    "Efficient multitasking"
+    ],
+    "__v": 0
+    },
+    {
+    "_id": "64e9e1d0e1ab9a5c03ef8013",
+    "productName": "Product SS",
+    "category": "Laptop",
+    "description": "Enhance your productivity with this high-performance laptop.",
+    "price": 85999,
+    "currency": "INR1",
+    "image": "https://dummyimage.com/200x200/111/000.jpg",
+    "saller": "Ricecity E-Store",
+    "availability": true,
+    "stockQuantity": 60,
+    "brand": "TechGenius",
+    "manufacturer": "TechSolutions",
+    "releaseDate": "2023-08-26T11:28:15.292Z",
+    "features": [
+    "Powerful processor",
+    "Sleek design"
+    ],
+    "__v": 0
+    }
+    ]
+
+}
